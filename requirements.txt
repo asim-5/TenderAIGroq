@@ -1,0 +1,12 @@
+streamlit
+langchain==0.1.14
+langchain-groq
+langchain-openai
+langchain-core
+langchain-community
+langchain-objectbox
+openai
+pydantic<2
+python-dotenv
+objectbox
+pypdf
